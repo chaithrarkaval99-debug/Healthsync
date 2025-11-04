@@ -1,10 +1,10 @@
-# HealthCare 🌱
+# Healthsync 🌱
 
 A modern web application for finding healthcare specialists in rural areas with location-based search and user authentication.
 
 ## 🚀 Live Demo
 
-[**View Live Site →**](https://chaithrarkaval99-debug.github.io/Healthcore/)
+[**View Live Site →**](http://docs.yourdomain.com/)
 
 ## ✨ Features
 
@@ -84,7 +84,7 @@ Works perfectly on:
 
 ## 🚀 Quick Start
 
-No installation required! Simply visit the [live site](https://chaithrarkaval99-debug.github.io/Healthcore/) and start exploring healthcare options.
+No installation required! Simply visit the [live site](http://docs.yourdomain.com/) and start exploring healthcare options.
 
 ## 📞 Support
 
